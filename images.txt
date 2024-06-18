@@ -1,1 +1,2 @@
-redis:6.2.14-alpine3.20
+bitnami/kafka:latest
+provectuslabs/kafka-ui:latest
